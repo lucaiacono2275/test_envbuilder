@@ -1,4 +1,4 @@
 {
     "name": "Test envbuilder",
-    "image": "lucaiacono2275/k8s-helmfile-image:0.0.7"
+    "image": "ghcr.io/lucaiacono2275/k8s-helmfile-image:0.0.7"
 }

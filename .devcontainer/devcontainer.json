@@ -1,4 +1,4 @@
 {
     "name": "Test envbuilder",
-    "image": "codercom/enterprise-base:ubuntu"
+    "image": "lucaiacono2275/k8s-helmfile-image:0.0.7"
 }

@@ -1,6 +1,10 @@
 {
     "name": "Test envbuilder",
-    "image": "ghcr.io/lucaiacono2275/k8s-helmfile-image:v0.1.0",
+    "image": "codercom/enterprise-base:ubuntu",
+    "features": {
+        "ghcr.io/devcontainers/features/kubectl-helm-minikube:1": {},
+        "ghcr.io/nucleuscloud/devcontainer-features/helmfile:0": {}
+    },
     "customizations": {
         "vscode": {
             "settings": {

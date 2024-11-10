@@ -10,11 +10,11 @@
             "settings": {
                 "workbench.colorTheme": "Default Dark Modern",
                 "editor.indentSize": "tabSize"
-            }
-        },
-        "extensions": [
-          "ms-azuretools.vscode-docker",
-          "github.vscode-github-actions"
-        ]
+            },
+            "extensions": [
+              "ms-azuretools.vscode-docker",
+              "github.vscode-github-actions"
+            ]
+        }
     }
 }
